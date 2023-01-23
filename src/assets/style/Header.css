@@ -36,3 +36,9 @@ header{
 
 }
 
+.qr{
+    margin-top: 0;
+    margin-left: 700px;
+    position: absolute;
+}
+

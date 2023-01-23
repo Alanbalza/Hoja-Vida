@@ -11,7 +11,7 @@ function Information() {
              experimentando, tengo conocimiento con algunos lenguages. <br/> Y experiencias con proyectos y trabajos en equipos.</p>
             </div>
             <div className="img">
-                <img src={img} width="800px" height="200px"/>
+                <img src={img} width="800px" height="150px"/>
             </div>
             
         </div>
