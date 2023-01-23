@@ -1,7 +1,38 @@
 header{
-    border: 1px black solid;
+    position: fixed;
+    top: 0;
+    height: 120px;
+    background-color: rgb(197, 178, 178);
+    width: 100%;
     display: flex;
-    justify-content: center;
-    padding: 0 4px;
-    background-color: bisque;
+    box-shadow: 1px 1px 1px 1px rgba(116, 110, 110, 0.199);
+    left: 0;
 }
+
+.header{
+    padding-left: 35%;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+}
+
+.text h2 {
+    font-size: 30px;
+    
+}
+
+.perfil{
+    background:url(Perfil.jpeg) no-repeat center center fixed;
+	background-size:cover;
+	height: 120px;
+	width: 10%;
+	position: absolute;
+	left: 10px;
+	top:1;
+    display: flex;
+
+}
+

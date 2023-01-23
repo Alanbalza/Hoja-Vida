@@ -1,0 +1,12 @@
+#padre{
+    display: flex;
+    flex-direction: column;
+}
+.header-experience{
+    background-color: chartreuse;
+    position: fixed;
+    width: 100%;
+    height: 260px;
+    top: 550px;
+    left: 0;
+}
